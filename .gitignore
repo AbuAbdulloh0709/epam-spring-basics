@@ -1,0 +1,27 @@
+# Maven target directory
+target/
+
+# IntelliJ project files
+.idea/
+
+# Maven-specific files
+*.iml
+*.ipr
+*.iws
+*.log
+log.txt
+mvn.wip/
+
+# IDE-specific files or directories
+.DS_Store
+Thumbs.db
+
+# Compiled bytecode
+*.class
+
+# Gradle files
+.gradle/
+
+# IntelliJ IDEA files
+*.iws.ipr
+
